@@ -21,9 +21,9 @@
         "oro/doctrine-extensions": "1.0.*",
         "symfony-cmf/routing-bundle": "1.2.* || ~2.0",
 
-        "sulu/sulu": "~1.2",
-        "sulu/product-bundle": "0.17.*",
-        "sulu/pricing-bundle": "~0.5",
+        "sulu/sulu": "~1.2 || ~1.6",
+        "sulu/product-bundle": "0.17.* || dev-feature/php73",
+        "sulu/pricing-bundle": "~0.5 || dev-feature/php73",
         "massive/pdf-bundle": "~0.1",
         "sulu/contact-extension-bundle": "~0.6"
     },
